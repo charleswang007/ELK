@@ -40,3 +40,5 @@ ELK Stack 的新成員，一個輕量級開源日誌文件數據蒐集器，基�
 [https://blog.johnwu.cc/article/how-to-install-elasticsearch-logstash-and-kibana-elk-stack-on-centos-red-hat.html](https://blog.johnwu.cc/article/how-to-install-elasticsearch-logstash-and-kibana-elk-stack-on-centos-red-hat.html)
 
 [http://puremonkey2010.blogspot.com/2017/06/elk-elasticsearch.html](http://puremonkey2010.blogspot.com/2017/06/elk-elasticsearch.html)
+
+[https://atceiling.blogspot.com/2018/05/elk.html](https://atceiling.blogspot.com/2018/05/elk.html)
